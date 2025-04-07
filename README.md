@@ -55,7 +55,7 @@ Meet the minds behind **AeroPINN**:
 ### Prerequisites
 - Python 3.8+
 - TensorFlow 2.x
-- NumPy, Pandas, Matplotlib
+- NumPy, Pandas, Matplotlib, Streamlit, IPYTHON, sklearn, keras
 
 ### Setup
 1. Clone the repository:
