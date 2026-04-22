@@ -1,6 +1,6 @@
 # AeroPINN
 
-![AeroPINN Banner](asset/aeropinn_banner.jpeg)
+<img src="asset/aeropinn_banner.jpeg" alt="AeroPINN Logo" width="150"/>
 
 Leveraging **Physics-Informed Neural Networks (PINNs)** to simulate airflow patterns around arbitrary airfoil geometries in real-time — replacing expensive CFD solvers with fast, physics-constrained deep learning.
 
